@@ -5,4 +5,4 @@ The dataset used is the 'ausproduction' dataset from the 'tsibbledata' package i
 
 The repository contains the following files :
 - Presentation.pdf : A slide deck with detailed explanations of the analysis
-- Code : The R code
+- Code.R : The R code
